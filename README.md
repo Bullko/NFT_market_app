@@ -1,3 +1,3 @@
-# NFT_market_app
+# NFT market app
 
 My first app builded in React Native with Expo Go.
